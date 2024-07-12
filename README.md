@@ -1,2 +1,2 @@
 # E-NIHONGO
-A website for JLPT N5 AND N4 learners. 
+A basic website made in html and css for JLPT N5 and N4 learners. 
